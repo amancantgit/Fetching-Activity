@@ -4,7 +4,9 @@ The Fetching Activity application is a simple yet effective tool designed to pro
 Hosted link : https://amancantgit.github.io/Fetching-Activity/
 
 ## Feature :
-- Random Activity: Get a random activity suggestion every time you refresh the page. This feature provides users with diverse and spontaneous ideas for things to do.
+Random Activity Suggestions
+- Receive a fresh and spontaneous activity recommendation each time you click button.
+- Discover new activities to enrich your free time.
 
 ## Technologies Used :
 HTML, CSS & Vanilla JavaScript.
